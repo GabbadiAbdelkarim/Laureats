@@ -1,0 +1,16 @@
+D:\4IIR\6.DOT NET\Gabbadi_Aichane\ProjectASP\Laureat.Domain\bin\Debug\Laureat.Domain.dll.config
+D:\4IIR\6.DOT NET\Gabbadi_Aichane\ProjectASP\Laureat.Domain\bin\Debug\Laureat.Domain.dll
+D:\4IIR\6.DOT NET\Gabbadi_Aichane\ProjectASP\Laureat.Domain\bin\Debug\Laureat.Domain.pdb
+D:\4IIR\6.DOT NET\Gabbadi_Aichane\ProjectASP\Laureat.Domain\bin\Debug\Castle.Core.dll
+D:\4IIR\6.DOT NET\Gabbadi_Aichane\ProjectASP\Laureat.Domain\bin\Debug\EntityFramework.dll
+D:\4IIR\6.DOT NET\Gabbadi_Aichane\ProjectASP\Laureat.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\4IIR\6.DOT NET\Gabbadi_Aichane\ProjectASP\Laureat.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\4IIR\6.DOT NET\Gabbadi_Aichane\ProjectASP\Laureat.Domain\bin\Debug\Moq.dll
+D:\4IIR\6.DOT NET\Gabbadi_Aichane\ProjectASP\Laureat.Domain\bin\Debug\WebActivatorEx.dll
+D:\4IIR\6.DOT NET\Gabbadi_Aichane\ProjectASP\Laureat.Domain\bin\Debug\Castle.Core.xml
+D:\4IIR\6.DOT NET\Gabbadi_Aichane\ProjectASP\Laureat.Domain\bin\Debug\EntityFramework.xml
+D:\4IIR\6.DOT NET\Gabbadi_Aichane\ProjectASP\Laureat.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\4IIR\6.DOT NET\Gabbadi_Aichane\ProjectASP\Laureat.Domain\bin\Debug\Moq.xml
+D:\4IIR\6.DOT NET\Gabbadi_Aichane\ProjectASP\Laureat.Domain\obj\Debug\Laureat.Domain.csprojResolveAssemblyReference.cache
+D:\4IIR\6.DOT NET\Gabbadi_Aichane\ProjectASP\Laureat.Domain\obj\Debug\Laureat.Domain.dll
+D:\4IIR\6.DOT NET\Gabbadi_Aichane\ProjectASP\Laureat.Domain\obj\Debug\Laureat.Domain.pdb

@@ -1,0 +1,14 @@
+﻿@model Laureat.WEBUI.Models.UserListViewModel
+
+@{
+    ViewBag.Title = "Utilisateurs";
+}
+
+<h2>List des utilisateurs</h2>
+@foreach (var p in Model.Users)
+{
+    @Html.Partial("UserSummary", p)
+}
+<div class="btn-group pull-right">
+    @Html.PageLinks(Model.PagingInfo, x => Url.Action("List", new { page = x, Roles=Model.CurrentRole }))
+</div>
